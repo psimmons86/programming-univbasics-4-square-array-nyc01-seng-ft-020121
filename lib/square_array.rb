@@ -1,3 +1,6 @@
 def square_array(array)
-  # your code here
+  array = [1,2,3]
+  while array do
+    array ** 2
+    puts array
 end
